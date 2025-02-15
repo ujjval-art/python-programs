@@ -1,0 +1,1 @@
+print("hello I am going to destroy you")
